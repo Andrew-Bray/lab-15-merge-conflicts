@@ -1,7 +1,13 @@
-bob-branch
+
+Hello there, this is what bob and carol did when we tried to follow directions. 
+
+Hey there, this is what Ted and Alice did when we used Ted's computer.
+Second attempt so we can make a PR.
+
+
 
 
 Awww yeah, Bob is making an exxxxcellent contribution!!! Isn't  this lovely?
-=======
+
 Hello there, this is what bob and carol did when we tried to follow directions. 
-main
+

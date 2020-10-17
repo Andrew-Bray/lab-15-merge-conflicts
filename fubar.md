@@ -13,9 +13,13 @@ Hello there, this is what git add carol did when we tried to follow directions.
 
 heeeeyyyyyy ,carol here again. Just testing to see if i mess everything up. did i?
 
-<<<<<<< bob-branch
+
+hello, alice here. nice to meet y'all. i'm new in town. any recommendations for good restaurants? wait, what do you mean everything is closed??? what about now?
+
+ADDING THINGS HERE
+
 Now I'm Carol, although I was once Bob. BAM!
 
-=======
+
 hello, alice here. nice to meet y'all. i'm new in town. any recommendations for good restaurants? wait, what do you mean everything is closed??? what about now?
->>>>>>> main
+
